@@ -4,8 +4,6 @@ import pandas as pd
 import os
 import numpy as np
 import altair as alt
-from streamlit_option_menu import option_menu
-import streamlit as st
 
 
 # Membuat sidebar
